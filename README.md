@@ -1,6 +1,6 @@
 # 🐔 Mob Stacker
 
-A lightweight Fabric server-side mod for Minecraft 1.21.x that automatically stacks adult chickens together. Built for Ryan Trahan fans following along with his series — keep your server running smooth no matter how many chickens pile up.
+A lightweight Fabric server-side mod for Minecraft 1.21.11+ that automatically stacks adult chickens together. Built for Ryan Trahan fans following along with his series — keep your server running smooth no matter how many chickens pile up.
 
 ## Features
 
