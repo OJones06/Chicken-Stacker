@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(java -version:*)",
+      "Bash(curl:*)",
+      "Bash(chmod:*)",
+      "Bash(./gradlew build:*)",
+      "Bash(/usr/libexec/java_home:*)",
+      "Bash(JAVA_HOME=/Library/Java/JavaVirtualMachines/temurin-21.jdk/Contents/Home /Users/owenjones/mob-stacker/gradlew build:*)",
+      "WebFetch(domain:maven.fabricmc.net)",
+      "Bash(JAVA_HOME=/Library/Java/JavaVirtualMachines/temurin-21.jdk/Contents/Home /Users/owenjones/mob-stacker/gradlew genSources:*)",
+      "Bash(unzip:*)"
+    ]
+  }
+}

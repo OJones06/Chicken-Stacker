@@ -1,0 +1,25 @@
+{
+    "schemaVersion": 1,
+    "id": "mobstacker",
+    "version": "1.0.0",
+    "name": "Mob Stacker",
+    "description": "Merges adult chickens in the same block into a single stacked entity.",
+    "authors": [],
+    "contact": {},
+    "license": "MIT",
+    "environment": "*",
+    "entrypoints": {
+        "main": [
+            "com.mobstacker.MobStackerMod"
+        ]
+    },
+    "mixins": [
+        "mobstacker.mixins.json"
+    ],
+    "depends": {
+        "fabricloader": ">=0.18.0",
+        "minecraft": "~1.21.11",
+        "java": ">=21",
+        "fabric-api": "*"
+    }
+}
