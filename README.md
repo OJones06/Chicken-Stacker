@@ -45,8 +45,3 @@ If you run into any bugs or have a feature request, open an issue on the [Issues
 
 ## Pictures
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/96198b7f-59c7-4def-9d4d-0a61cf408d8c" />
-
-
-## License
-
-This project is licensed under the MIT License.
